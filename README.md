@@ -1,5 +1,9 @@
 # cpp-backend-core
 
+![CI](https://github.com/wzh886/cpp-backend-core/actions/workflows/ci.yml/badge.svg)
+![C++20](https://img.shields.io/badge/C%2B%2B-20-blue)
+![Release](https://img.shields.io/github/v/release/wzh886/cpp-backend-core)
+
 A production-minded C++20 HTTP backend starter designed to look credible in a real portfolio: modern CMake, clean modular boundaries, JSON configuration, structured logging, explicit error handling, health checks, example API routes, tests, and container packaging.
 
 ## Why this repo exists
