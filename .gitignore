@@ -1,0 +1,27 @@
+# Build artifacts
+/build/
+/out/
+/.cache/
+
+# CMake
+CMakeUserPresets.json
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Runtime artifacts
+/logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

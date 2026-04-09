@@ -1,0 +1,15 @@
+{
+  "service_name": "cpp-backend-core",
+  "environment": "development",
+  "version": "0.1.0",
+  "server": {
+    "host": "0.0.0.0",
+    "port": 8080,
+    "read_timeout_seconds": 5,
+    "write_timeout_seconds": 5,
+    "idle_interval_microseconds": 100000
+  },
+  "logging": {
+    "level": "info"
+  }
+}
