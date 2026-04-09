@@ -79,6 +79,9 @@ incoming request
 
 ## Quickstart
 
+For a concrete build/test/run flow, see [`docs/demo.md`](docs/demo.md).
+
+
 ### Prerequisites
 
 - CMake 3.24+
